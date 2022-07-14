@@ -38,7 +38,7 @@ Tableau, Pandas
 
 ## Sources
 
-* ![Citi Bike System Data] (https://ride.citibikenyc.com/system-data)
+* Citi Bike System Data: https://ride.citibikenyc.com/system-data
 * Metropolitan New York and Jersey City datasets for 2019-2021 downloaded, cleaned, and summarized in Pandas.
 * The summary csv tables exported from Pandas are saved in this repository's Data folder for inspection.
 
